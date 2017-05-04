@@ -1,7 +1,7 @@
 {
   "name": "@monowales/vue-firebase-auth",
   "version": "0.0.2",
-  "main": "Auth.vue",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

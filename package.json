@@ -1,7 +1,6 @@
 {
-  "name": "vue-firebase-auth",
+  "name": "@monowales/vue-firebase-auth",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +9,11 @@
     "type": "git",
     "url": "git+https://github.com/monowales/vue-firebase-auth.git"
   },
-  "author": "",
+  "author": "Mono <hello@mono.wales> (https://mono.wales)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/monowales/vue-firebase-auth/issues"
   },
-  "homepage": "https://github.com/monowales/vue-firebase-auth#readme"
+  "homepage": "https://github.com/monowales/vue-firebase-auth#readme",
+  "description": ""
 }
